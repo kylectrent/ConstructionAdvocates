@@ -1,8 +1,11 @@
-1.delete footer
-1.edit info
+1.delete footer(done)
+1.edit info(done)
 1.create contact form
-1.change title of each page 
-1.delete address and map from contact us  
+1.change title of each page(done) 
+1.delete address and map from contact us(done)
+1. about us update photo with mr casey casey-legal.com then add a paragraph for me with my fb profile photo
+1.replace readmore button with testimonials   
+1.On services page add section about what makes a home qualify
 
 2. contact us should reccomend subject request our services/report a neighborhood/other
 2.change home paragraph into list with number icons
