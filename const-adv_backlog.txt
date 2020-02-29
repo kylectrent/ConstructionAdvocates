@@ -6,6 +6,7 @@
 1. about us update photo with mr casey casey-legal.com then add a paragraph for me with my fb profile photo
 1.replace readmore button with testimonials   
 1.On services page add section about what makes a home qualify
+1.add link to casey-legal.com in about page
 
 2. contact us should reccomend subject request our services/report a neighborhood/other
 2.change home paragraph into list with number icons
